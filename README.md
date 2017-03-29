@@ -21,6 +21,7 @@ Really?
 # Fake/Spam Review Detection
 Most fake reviews are duplicates. How to categorize them is a problem.
 Reference: https://www.cs.uic.edu/~liub/FBS/fake-reviews.html
+
 Type 1: Duplicates from different users on the same apps
 
 Type 2: Duplicates from the same user on different apps
